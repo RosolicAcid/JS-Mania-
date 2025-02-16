@@ -44,6 +44,7 @@ function toUpperCaseManual(str) {
     return result;
 }
 
+
 // Example usage:
 console.log(toUpperCaseManual("hello world!"));
 console.log(toUpperCaseManual("JavaScript"));
